@@ -1,10 +1,9 @@
 # Gerenciador de tarefas
 
-## DIO - Trilha .NET - API e Entity Framework
-www.dio.me
 
 ## Desafio de projeto
 Módulo de API e Entity Framework, da trilha .NET da DIO.
+www.dio.me
 
 ## Contexto
 Você precisa construir um sistema gerenciador de tarefas, onde você poderá cadastrar uma lista de tarefas que permitirá organizar melhor a sua rotina.
