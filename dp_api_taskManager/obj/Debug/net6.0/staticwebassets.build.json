@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "grfS5ES/rNHh0IiY3YKHt9cMD6pVNQsRb4EGmDgsm3c=",
+  "Source": "dp_api_taskManager",
+  "BasePath": "_content/dp_api_taskManager",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
